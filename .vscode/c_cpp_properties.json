@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "qt",
+            "includePath": [
+                "D:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/include/**",
+                "D:/Qt/Qt5.4.2/5.4/msvc2013_opengl/include/**",
+                "${workspaceRoot}/**"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
