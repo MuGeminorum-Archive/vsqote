@@ -42,3 +42,4 @@ build/debug/imageformats/qtiffd.dll
 build/debug/imageformats/qwbmpd.dll
 build/debug/imageformats/qwebpd.dll
 build/debug/platforms/qwindowsd.dll
+rename.sh
