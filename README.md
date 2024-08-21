@@ -1,4 +1,4 @@
-# vsqote
-[![license](https://img.shields.io/github/license/Mu-Geminorum/vsqote.svg)](https://github.com/Mu-Geminorum/vsqote/blob/main/LICENSE)
+# VSQote
+[![license](https://img.shields.io/github/license/MuGeminorum-Archive/vsqote.svg)](https://github.com/MuGeminorum-Archive/vsqote/blob/main/LICENSE)
 
-debuggable qt project on vscode
+Debuggable qt project on vscode
