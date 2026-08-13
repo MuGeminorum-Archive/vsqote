@@ -719,6 +719,7 @@ check_status() {
 
 check_ver() {
 	http_response $(curl -s https://raw.githubusercontent.com/Genius-Society/rogsoft_openlist/refs/heads/main/openlist/version)
+	dbus set softcenter_module_openlist_version="$(curl -s "https://rogsoft.ddnsto.com/softcenter/app.json.js" | grep -A 10 '"module": "openlist"' | grep '"version":' | sed 's/.*"version": "\([^"]*\)".*/\1/')"
 }
 
 update() {
